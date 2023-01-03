@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+                <h1>김포와 강화 그사이 문수산 근처 환성농원 </h1>
+                <ol>
+                    <li> 환성농원에서 인테리어 반려식물을 판매합니다 <br> (박쥐란, 다육식물, 공기정화식물) </li>
+                    <li> 경기도 김포시 월곶면 문수산로 425-15 </li> 
+                </ol>
+                <br>
+                <button> 바로가기 </button>
+                <a href="https://smartstore.naver.com/thdalland"> 환성농원 스마트스토어 바로가기 </a> <br>
+                <button> 바로가기 </button>
+                <a href=" https://www.instagram.com/songmi_an/"> 환성농원 인스타그램 바로가기 </a>
+        <img src="https://ldb-phinf.pstatic.net/20221119_295/166883853341605ymq_JPEG/2090E129-2EBF-4FC5-8D90-DACDEEF4BA8A.jpeg" alt=""
+
+    </div><input type="text " style="width: 500px; height:100px; font=size; 50px;">
+</body>
+</html>
